@@ -1,0 +1,25 @@
+.Cleaning {
+    flex-basis: 16%;
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: 0.5em;
+    text-align: justify;
+    float: right;
+}
+
+.blue-fish {
+
+    width: 9em;
+}
+
+.Tetras {
+    width: 12em;
+}
+
+.Guppies {
+    width: 10em;
+}
+
+.Swordtails{
+    width: 13em;
+}
